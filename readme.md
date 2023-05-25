@@ -24,4 +24,7 @@
 
 ## Module 2
  - Validations of an entity should be done by itself
+ - Deep Repository learning by implmenting concepts with a full tested in memory repository to be used within the software
+ - Category in memory repository developed as a chanlage course
+  
  
