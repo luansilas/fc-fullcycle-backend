@@ -19,3 +19,9 @@
  ### Chalange 1  
     
  - Evolve category entity to be modifiable throught update, activate and deactivate methods
+
+---
+
+## Module 2
+ - Validations of an entity should be done by itself
+ 

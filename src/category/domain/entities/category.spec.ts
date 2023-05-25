@@ -3,6 +3,7 @@ import { UniqueEntityId } from "../../../@seedwork/domain/value-objects/unique-e
 import Category, { CategoryProperties } from "./category";
 import {omit} from 'lodash';
 
+Category.validate = jest.fn();
 
 describe("Category Unit Test", ()=> {
 
